@@ -1,0 +1,1 @@
+This is my personal project exploring the heterogeneous effects of public R&D spillovers and structural genes in the US. Utilizing text data from over 9 million US patents, the project aims to investigate the causal impact of federal funding spillovers on US industries. Additionally, it seeks to address the productivity growth slowdown issue in economics.
